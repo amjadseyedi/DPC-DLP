@@ -1,6 +1,6 @@
 # DPC-DLP
 
-  *Dynamic graph-based label propagation for density peaks clustering*
+  ## Dynamic graph-based label propagation for density peaks clustering
   
   *Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi, Nooruldeen Nasih Qader*
   
