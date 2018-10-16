@@ -2,10 +2,11 @@
 
   *Dynamic graph-based label propagation for density peaks clustering*
   
-  SA Seyedi, A Lotfi, P Moradi, NN Qader
-  Expert Systems with Applications 2019, 314-328
+  *Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi, Nooruldeen Nasih Qader*
   
-  *https://doi.org/10.1016/j.eswa.2018.07.075
+  *Expert Systems with Applications 2019, 314-328*
+  
+  *https://doi.org/10.1016/j.eswa.2018.07.075*
 
   # Abstract
 
