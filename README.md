@@ -4,7 +4,7 @@
   
   *Seyed Amjad Seyedi, Abdulrahman Lotfi, Parham Moradi, Nooruldeen Nasih Qader*
   
-  *Information Sciences 2023*
+  *Expert Systems with Applications 2019, 314-328*
   
   *https://doi.org/10.1016/j.eswa.2018.07.075*
 
